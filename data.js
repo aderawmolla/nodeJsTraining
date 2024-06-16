@@ -7,23 +7,23 @@ const students = [
     },
     {
         "id":"2",
-        "studentName": "Aderaw",
-        "year": "5",
+        "studentName": "Ayal",
+        "year": "3",
         "age": "23",
         "department": "Software Engineering"
     },
     {
 
          "id":"3",
-        "studentName": "Ademe",
-        "year": "5",
+        "studentName": "Estifanos",
+        "year": "3",
         "age": "24",
-        "department": "Mechanical"
+        "department": "Software"
     },
     {
         "id":"4",
         "studentName": "Samuel",
-        "year": "4",
+        "year": "5",
         "age": "23",
         "department": "Software Engineering"
     },
