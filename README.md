@@ -1,22 +1,25 @@
-Express Student API Server
+# Express Student API Server
+
 This repository contains a simple Express.js API server that manages student data.
 
-Table of Contents
-Installation
-Usage
-Endpoints
-Contributing
-License
-Links
-Installation
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Endpoints](#endpoints)
+- [Contributing](#contributing)
+- [License](#license)
+- [Links](#links)
+
+---
+
+## Installation
+
 To get started with the project, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your/repository.git
-cd repository
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your/repository.git
+   cd repository
 Install dependencies:
 
 bash
