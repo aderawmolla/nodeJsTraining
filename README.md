@@ -15,11 +15,14 @@ This repository contains a simple Express.js API server that manages student dat
 To get started with the project, follow these steps:
 
 1. **Clone the repository**:
+
    ```bash
    git clone git@github.com:aderawmolla/nodeJsTraining.git
    cd nodeJsTraining
 
-2. **install dependencies**:
+3. **install dependencies**:
+
+                           
 bash
 Copy code
 npm install
