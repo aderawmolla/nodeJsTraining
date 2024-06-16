@@ -6,7 +6,7 @@ This repository contains a simple Express.js API server that manages student dat
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
--
+
 
 ---
 
