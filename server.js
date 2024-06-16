@@ -1,0 +1,15 @@
+const express = require("express")
+const cors = require("cors")
+const app = express()
+const dotenv = require("dotenv")
+dotenv.config()
+const studentApi=require("./studenRoute")
+app.use(express.json())
+app.use(cors())
+const router = express.Router()
+app.use(router)
+app.use('/',studentApi)
+
+app.listen(process.env.PORT || 3001, (req, res) => {
+    console.log("app is running in port 3000")
+})
