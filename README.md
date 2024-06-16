@@ -24,24 +24,16 @@ To get started with the project, follow these steps:
 
                            
 ```bash
-Copy code
+
 npm install
-Set up environment variables:
-Create a .env file in the root directory and define:
-
-env
-Copy code
-PORT=3001
-Usage
-Start the server:
-
-
 npm start
 The server will run on http://localhost:3001.
 
 
 
 3. **End points**:
+
+you can test these apis using thunder client or postman
 
 GET /api/getStudent/:id
 Fetches a student by ID.
