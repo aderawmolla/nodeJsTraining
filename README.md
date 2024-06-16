@@ -23,7 +23,7 @@ To get started with the project, follow these steps:
 3. **install dependencies**:
 
                            
-bash
+```bash
 Copy code
 npm install
 Set up environment variables:
@@ -35,8 +35,7 @@ PORT=3001
 Usage
 Start the server:
 
-bash
-Copy code
+
 npm start
 The server will run on http://localhost:3001.
 
