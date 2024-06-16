@@ -39,6 +39,8 @@ Start the server:
 npm start
 The server will run on http://localhost:3001.
 
+
+
 3. **End points**:
 
 GET /api/getStudent/:id
