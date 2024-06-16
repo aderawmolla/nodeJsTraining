@@ -18,8 +18,8 @@ To get started with the project, follow these steps:
    ```bash
    git clone git@github.com:aderawmolla/nodeJsTraining.git
    cd nodeJsTraining
-Install dependencies:
 
+2. **install dependencies**:
 bash
 Copy code
 npm install
@@ -37,8 +37,7 @@ Copy code
 npm start
 The server will run on http://localhost:3001.
 
-Endpoints
-The following endpoints are available:
+3. **End points**:
 
 GET /api/getStudent/:id
 Fetches a student by ID.
